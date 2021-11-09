@@ -1,0 +1,26 @@
+{
+    "id": "BFA9F791",
+    "path": "G:/My Drive/RProjects/parking_map/map/server.R",
+    "project_path": "map/server.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1636403159987.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "50,30",
+        "scrollLine": "44"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636403937,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636403937,
+    "read_only": false,
+    "read_only_alternatives": []
+}
